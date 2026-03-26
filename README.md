@@ -190,7 +190,7 @@ Algunas mejoras que podrían agregarse al sistema:
 
 ---
 
-#Link repositorio:
+# Link repositorio:
 https://github.com/roviraromario/Inventario
 
 
