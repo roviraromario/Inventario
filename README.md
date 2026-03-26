@@ -190,8 +190,8 @@ Algunas mejoras que podrían agregarse al sistema:
 
 ---
 
-# Autor
+#Link repositorio:
+https://github.com/roviraromario/Inventario
 
-Proyecto desarrollado como práctica de **programación en Python y gestión de inventarios mediante módulos y archivos CSV**.
 
 ---
